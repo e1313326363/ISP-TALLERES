@@ -90,3 +90,6 @@
 
 #### Observamos las imagenes subida en Docker Hub
 ![Alt text](images/22.png)
+
+#### MODELO ENTIDAD RELACIÓN
+![Alt text](images/EN.png)
