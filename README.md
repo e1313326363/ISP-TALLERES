@@ -7,7 +7,6 @@
 - Joviric Isaac
 - Palacios Anthoy
 ## Testing
-
 ### 1er Paso.
 #### Definimos las variables las cuales se van a testear.
 ![Alt text](images/9.png)
